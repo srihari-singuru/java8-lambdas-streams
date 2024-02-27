@@ -1,2 +1,2 @@
-# java8-lambdas-streams
+# Lambdas and Streams - Java 8
 Everything about Java 8's Lambdas and Streams
